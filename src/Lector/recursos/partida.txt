@@ -1,0 +1,9 @@
+[Event "Evento"]
+[Site "Ubicación"]
+[Date "2024.11.22"]
+[Round "1"]
+[White "Jugador Blanco"]
+[Black "Jugador Negro"]
+[Result "*"]
+
+1. e3 e6 2. d4 f5 3. Nh3 f4 4. Ng5 e5 5. Nxh7 d6 6. Nf6 c5
